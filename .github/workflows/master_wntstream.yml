@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'wntstream'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9e5e229de109462b90ef938459652b3d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d2b5f56f6d8b4ba886ff3d077809a06f }}
         package: .
